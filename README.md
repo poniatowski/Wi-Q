@@ -15,5 +15,5 @@ Service|Address outside
 ------|---------
 Webserver|[localhost:8080](http://localhost:8080)
 
-# How to run unit tests#
+## How to run unit tests
   * Run `docker-compose exec php-fpm bash` and then `./vendor/bin/phpunit` 
