@@ -1,6 +1,6 @@
 {
-  "name": "slim/slim-skeleton",
-  "description": "A Slim Framework skeleton application for REST API",
+  "name": "Backend test",
+  "description": "Skeleton application for REST API",
   "keywords": [
     "Homework",
     "REST API"
